@@ -1,10 +1,11 @@
 printWidth: 80
 trailingComma: "es5"
 tabWidth: 4
-semi: false
+semi: true
 singleQuote: true
 bracketSpacing: true
-useTabs: false
+useTabs: true
 arrowParens: "always"
 jsxBracketSameLine: false
 proseWrap: "always"
+endOfLine: "lf"
